@@ -34,8 +34,8 @@ ask you for a filename and create one accordingly.
 -d requires a path. It will use the path given to navigate a directory from
 which the program will read or write from/to. 
 
-   NOTE: Paths should be written like so:
-      /Users/alexandratang/Desktop
+   NOTE: Paths should be written like so:<br>
+      /Users/alexandratang/Desktop<br>
    Do not include a "/" after your final location.
 
 
