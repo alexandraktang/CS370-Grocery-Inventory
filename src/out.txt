@@ -1,0 +1,8 @@
+Inventory Number | Item Description | Quantity | Price | Date Purchased | Timestamp
+
+123456 | Bananas | 6 | 6.99 | January 6, 2017 | 395726483212
+234567 | Grapes | 492 | 7.32 | October 15, 1997 | 28475939274992
+345678 | Donuts | 834 | 8.23 | June 5, 2017 | 387539274964
+456789 | Apples | 1 | 0.23 | November 12, 1682 | 487392739573
+567890 | Spaghetti Noodles | 22 | 2.39 | August 24, 1998 | 3857378493823
+678901 | Peanuts | 13 | 0.19 | May 20, 1284 | 5738294068492
